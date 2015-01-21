@@ -7,7 +7,7 @@ import java.util.Scanner;
  *
  * @author smc
  */
-public class Solution {
+public class FlippingBits {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
